@@ -3,6 +3,9 @@ import styles from "../Location/Location.module.css";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css"
 import L from 'leaflet';
+import iconMarker from 'leaflet/dist/images/marker-icon.png'
+import iconRetina from 'leaflet/dist/images/marker-icon-2x.png'
+import iconShadow from 'leaflet/dist/images/marker-shadow.png'
 import { animated, useSpring, easings} from "@react-spring/web"
 import { useInView } from "react-intersection-observer"
 
@@ -11,9 +14,9 @@ function Location() {
   delete L.Icon.Default.prototype._getIconUrl;
 
   L.Icon.Default.mergeOptions({
-    iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png').default,
-    iconUrl: require('leaflet/dist/images/marker-icon.png').default,
-    shadowUrl: require('leaflet/dist/images/marker-shadow.png').default
+    iconRetinaUrl:iconRetina, 
+    iconUrl: iconMarker, 
+    shadowUrl: iconShadow 
   });
 
   const [ref, inView] = useInView({triggerOnce: false});
