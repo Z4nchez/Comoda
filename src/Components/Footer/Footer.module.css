@@ -1,0 +1,22 @@
+.Footer{
+    height: 3vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gruppo', sans-serif;
+    background-color: rgba(172, 145, 131, 0.3);
+}
+.title{
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(161, 142, 131);
+    font-size: 0.8rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+.title:hover{
+    color: rgb(245, 223, 210);
+}

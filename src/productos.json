@@ -1,0 +1,218 @@
+[
+    {
+        "key": 0,
+        "name": "Sofá Cama Esquinero",
+        "desc": "Sofa Cama Gris Claro para esquinero, tapizado Suizo",
+        "price": 500,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786273/Comoda/kchwwqh55tyehj9en1mo.png",
+        "discount": 15,
+        "sold": 52
+    },
+    {
+        "key": 1,
+        "name": "Sofá Cama Esquinero",
+        "desc": "Sofa Cama Beige para esquinero, tela Turca y estructura de Cedro",
+        "price": 550,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786271/Comoda/fkonysngtzhau9mp7a5e.png",
+        "discount": 0,
+        "sold": 17
+    },
+    {
+        "key": 2,
+        "name": "Sofá L Esquinero",
+        "desc": "Sofa L Gris para esquinero, doble acolchado",
+        "price": 650,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786274/Comoda/wbukl2yl8uqwuxllwalp.png",
+        "discount": 0,
+        "sold": 24
+    },
+    {
+        "key": 3,
+        "name": "Sofá C Rinconero",
+        "desc": "Sofa C rinconero esquinero amplio, costura reforzada y doble acolchado",
+        "price": 850,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786275/Comoda/jdhqpxixv65eghwoczsr.png",
+        "discount": 0,
+        "sold": 11
+    },
+    {
+        "key": 4,
+        "name": "Sofá Circular",
+        "desc": "Sofa circular amplio, con buen confort y respaldares",
+        "price": 700,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786275/Comoda/biji8n5tpqvad0b3cssa.png",
+        "discount": 0,
+        "sold": 15
+    },
+    {
+        "key": 5,
+        "name": "Sillón 2 Cuerpos",
+        "desc": "Sillón 2 Cuerpos Blanco, con acolchados",
+        "price": 300,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786273/Comoda/tywdsakldcqt6ohrnns8.png",
+        "discount": 0,
+        "sold": 21
+    },
+    {
+        "key": 6,
+        "name": "Sillón Singular Amplio",
+        "desc": "Sillón 1 Cuerpo amplio, con acolchado",
+        "price": 250,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786274/Comoda/dtltrvpnbvgytrlnvtwf.png",
+        "discount": 0,
+        "sold": 12
+    },
+    {
+        "key": 7,
+        "name": "Sillón de Club",
+        "desc": "Sillón de Club Rojo, con buena costura",
+        "price": 260,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786274/Comoda/loldhzfgdnwjjj3upsve.png",
+        "discount": 0,
+        "sold": 7
+    },
+    {
+        "key": 8,
+        "name": "Sillón Clásico",
+        "desc": "Sillón Clásico con decoraciones pulidas en madera",
+        "price": 400,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786271/Comoda/tkb6gr4r9mqxtlznrph0.png",
+        "discount": 0,
+        "sold": 5
+    },
+    {
+        "key": 9,
+        "name": "Sillón Moderno 3 Cuerpos",
+        "desc": "Sillón Moderno de 3 cuerpos, con respaldares amplios",
+        "price": 600,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786272/Comoda/geyi7g5eq6aejtlpfapx.png",
+        "discount": 0,
+        "sold": 26
+    },
+    {
+        "key": 10,
+        "name": "Sillones Japoneses",
+        "desc": "Sillones estilo asiático con acolchados",
+        "price": 650,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786273/Comoda/fmkpcnvszxxzamhemupa.png",
+        "discount": 0,
+        "sold": 31
+    },
+    {
+        "key": 11,
+        "name": "Silla de Parque",
+        "desc": "Silla larga para parques y espacios exteriores",
+        "price": 40,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786272/Comoda/fyh9gpqr8aagleekfchs.png",
+        "discount": 0,
+        "sold": 44
+    },
+    {
+        "key": 12,
+        "name": "Sillón moderno",
+        "desc": "Silla moderno con buen angulo de respaldo",
+        "price": 90,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786271/Comoda/kxu3qvbirgqv9zjpel36.png",
+        "discount": 10,
+        "sold": 13
+    },
+    {
+        "key": 13,
+        "name": "Sillón Reposero",
+        "desc": "Sillón reposero para siesta",
+        "price": 130,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786272/Comoda/jsapi5xejurq0z3bwfkj.png",
+        "discount": 0,
+        "sold": 19
+    },
+    {
+        "key": 14,
+        "name": "Sillón Circular",
+        "desc": "Sillón Silla circular con doble acolchado",
+        "price": 110,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786274/Comoda/xjgi9v6ggmkmh26d3ktj.png",
+        "discount": 0,
+        "sold": 14
+    },
+    {
+        "key": 15,
+        "name": "Sillón Redondo",
+        "desc": "Sillón redondo Beige",
+        "price": 40,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786272/Comoda/ppkhmtcqd1kq7y3giunh.png",
+        "discount": 0,
+        "sold": 8
+    },
+    {
+        "key": 16,
+        "name": "Silla de estar",
+        "desc": "Sillón de estar estilo clásico",
+        "price": 60,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786271/Comoda/hhofltlqsw5lyxtlepkf.png",
+        "discount": 0,
+        "sold": 4
+    },
+    {
+        "key": 17,
+        "name": "Silla de oficina",
+        "desc": "Silla de oficina, con ajuste de altura y cuero reforzado",
+        "price": 50,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786271/Comoda/zuv5huuqfuuxqyzn00gg.png",
+        "discount": 0,
+        "sold": 22
+    },
+    {
+        "key": 18,
+        "name": "Mesa Redonda",
+        "desc": "Mesa redonda de álamo + 4 sillas",
+        "price": 150,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786269/Comoda/ild1lqmvuxqjshjsrs0v.png",
+        "discount": 0,
+        "sold": 13
+    },
+    {
+        "key": 19,
+        "name": "Mesa Giratoria Redonda",
+        "desc": "Mesa giratoria redonda para platos + 6 sillas",
+        "price": 220,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786270/Comoda/apbe1jdu7tupltrbieqs.png",
+        "discount": 0,
+        "sold": 10
+    },
+    {
+        "key": 20,
+        "name": "Mesa Familiar en Cedro",
+        "desc": "Mesa Familiar en madera de Cedro + 6 sillas",
+        "price": 250,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786269/Comoda/xogd6jyodi53mrbsrr7o.png",
+        "discount": 10,
+        "sold": 50
+    },
+    {
+        "key": 21,
+        "name": "Mesa Familiar en Vidrio",
+        "desc": "Mesa familiar de cedro con terminaciones en vidrio + 8 sillas",
+        "price": 350,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786269/Comoda/aqo4iuxzxeocmmfsnbuu.png",
+        "discount": 0,
+        "sold": 17
+    },
+    {
+        "key": 22,
+        "name": "Mesa Familiar Moderna",
+        "desc": "Mesa familiar moderna minimalista + 8 sillas",
+        "price": 240,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786271/Comoda/zjlrgurfdv8dwhzvvidb.png",
+        "discount": 0,
+        "sold": 29
+    },
+    {
+        "key": 23,
+        "name": "Mesa Comedor Oval",
+        "desc": "Mesa amplia para comedor con forma oval + 10 sillas",
+        "price": 340,
+        "img": "https://res.cloudinary.com/dabb8jxxh/image/upload/v1700786269/Comoda/sjri2exmdwbvyfdjkrle.png",
+        "discount": 0,
+        "sold": 25
+    }
+]

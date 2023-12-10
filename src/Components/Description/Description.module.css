@@ -1,0 +1,162 @@
+.Description{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+    height: 60%;
+    top: 20%;
+    left: 20%;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(161, 142, 131, 0.2);
+    border-radius: 6px;
+    color: rgb(245, 223, 210);
+    font-family: 'Gruppo', sans-serif;
+    z-index: 800;
+}
+.infoCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 20%;
+}
+.tittle{
+    display: flex;
+    width: 100%;
+    height: 60%;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 3rem;
+}
+.desc{
+    display: flex;
+    width: 100%;
+    height: 40%;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 1.2rem;
+}
+.priceCont{
+    width: 80%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgCont{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imgCont img{
+    width: 100%;
+    height: 100%;
+}
+.Details{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.detalleCont{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-left: 10%;
+}
+.detalleT{
+    width: 100px;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.detalleValor{
+    width: 80px;
+    height: auto;
+    color: rgb(253, 192, 112);
+}
+.buttonC{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 1px solid rgba(161, 142, 131, 0.3);
+}
+.buttonC:hover{
+    background-color: rgba(255, 255, 255, 0.5); 
+}
+.buttonCont{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.button{
+    width: 120px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    background-color: rgba(255, 74, 2, 0.3);
+    border: 1px solid rgba(161, 142, 131, 0.3);
+    transition: background-color 0.4s ease-in-out;
+}
+.button:hover{
+    background-color: rgba(255, 74, 2);
+}
+
+@media screen and (max-aspect-ratio: 5/4){
+    .Description{
+        top: 25%;
+        width: 80%;
+        left: 10%;
+    }
+    .priceCont{
+        flex-direction: column;
+    }
+    .imgCont{
+        width: 100%;
+        height: 50%;
+    }
+    .Details{
+        width: 100%;
+        height: 50%;
+    }
+    .tittle{
+        font-size: 1.4rem;
+    }
+    .desc{
+        font-size: 0.9rem;
+    }
+    .detalleT{
+        width: 80px;
+        font-size: 0.9rem;
+    }
+    .detalleValor{
+        font-size: 0.9rem;
+    }
+    .buttonCont{
+        justify-content: center;
+    }
+    .imgCont img{
+        width: auto;
+        height: 100%;
+    }
+}

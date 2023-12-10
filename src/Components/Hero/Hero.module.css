@@ -1,0 +1,63 @@
+.Hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../../public/hero.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: 'Gruppo', sans-serif;
+}
+.tittleCont{
+    width: 50%;
+    height: calc(100% - 111px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(161, 142, 131);
+    backdrop-filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0.1);
+    position: relative;
+    top: 55px;
+}
+.tittleCont h2{
+    width: 80%;
+    height: auto;
+    font-size: 4rem;
+    text-shadow: 0 0 4px rgb(255, 136, 0);
+}
+.tittleCont p{
+    width: 80%;
+    height: auto;
+    font-size: 2rem;
+    text-shadow: 0 0 4px rgb(255, 136, 0);
+    margin-bottom: 110px;
+}
+@media screen and (width < 1200px) and (height < 1200px){
+    .tittleCont h2{
+        font-size: 3rem;
+    }
+    .tittleCont p{
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (width < 800px) and (height < 1200px){
+    .tittleCont h2{
+        font-size: 2rem;
+        color: rgb(245, 223, 210);
+    }
+    .tittleCont p{
+        font-size: 1.2rem;
+        color: rgb(245, 223, 210);
+    }
+    .Hero{
+        justify-content: center;        
+    }
+    .tittleCont{
+        width: 60%;
+    }
+}

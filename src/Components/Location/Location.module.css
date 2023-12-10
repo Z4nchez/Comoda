@@ -1,0 +1,62 @@
+.Location{
+    width: 100%;
+    height: 150vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(161, 142, 131);
+    font-family: 'Gruppo', sans-serif;
+    flex-direction: column;
+}
+.tittleCont{
+    width: 100%;
+    height: 10%;
+}
+.tittleCont h2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+.mapaCont{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MapContainer{
+    width: 80%;
+    height: 80%;
+    border-radius: 6px;
+    border: 5px solid rgb(161, 142, 131);
+}
+.descCont{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.descCont h3{
+    width: 100%;
+    height: 20px;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (width < 800px){
+    .tittleCont h2{
+        font-size: 2rem;
+    }
+    .descCont h3{
+        width: 80%;
+        font-size: 1rem;
+    }
+}

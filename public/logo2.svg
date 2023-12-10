@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83334 105.83333"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Walter\Desktop\bitmap.png"
+   inkscape:export-xdpi="23.09091"
+   inkscape:export-ydpi="23.09091"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.9968294"
+     inkscape:cx="244.09131"
+     inkscape:cy="195.87368"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1016" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1960"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="449.80872"
+       y="78.749893"
+       width="535.2323"
+       height="153.49556"
+       id="rect5316" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1016"
+       transform="translate(-3.53151,-28.252081)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9378px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#666666;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+         x="41.592571"
+         y="104.42783"
+         id="text6751"
+         transform="scale(1.2300518,0.8129739)"><tspan
+           sodipodi:role="line"
+           id="tspan6749"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#666666;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none"
+           x="41.592571"
+           y="104.42783">OMODA</tspan></text>
+      <path
+         style="fill:none;stroke:#a18e83;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 55.091557,70.983352 c -1.836013,-4.270337 -4.962901,-7.975633 -8.863803,-10.503417 -3.900901,-2.527784 -8.560342,-3.868029 -13.208136,-3.799198 -6.182716,0.09156 -12.293403,2.727416 -16.588034,7.176069 -4.294631,4.448653 -6.7148099,10.657182 -6.5433558,16.838199 0.1721448,6.205923 2.9537398,12.29224 7.5116178,16.507553 4.557877,4.215312 10.828771,6.512292 17.032378,6.270692 7.91781,-0.30836 15.547387,-4.844868 19.59988,-11.653987"
+         id="path1958"
+         inkscape:path-effect="#path-effect1960"
+         inkscape:original-d="M 55.091557,70.983352 C 47.734508,66.216079 40.377197,61.448539 33.019618,56.680737 25.662042,51.912934 17.598956,72.690513 9.8882282,80.695005 2.1774999,88.699498 26.251156,95.880763 34.432224,103.47325 c 8.181067,7.59248 13.066852,-7.769062 19.59988,-11.653987" />
+    </g>
+  </g>
+</svg>

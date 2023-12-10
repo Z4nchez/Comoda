@@ -1,0 +1,195 @@
+.About{
+    width: 100%;
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contTittle{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+.contDesc{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(161, 142, 131);
+    font-family: 'Gruppo', sans-serif;
+}
+.contDesc h2{
+    font-size: 3rem;
+}
+.contDesc p{
+    font-size: 1.2rem;
+}
+.logoCont{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoCont img{
+    height: 70%;
+    width: auto;
+}
+.contPanel{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contA1{
+    width: 30%;
+    height: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    top: 111px;
+}
+.contA2{
+    width: 30%;
+    height: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    top: 111px;
+}
+.contA3{
+    width: 30%;
+    height: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    top: 111px;
+}
+.contAD{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 110px;
+}
+.contAD img{
+    width: auto;
+    height: 30%;
+    border-radius: 8px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+}
+.contAD p{
+    width: 100%;
+    height: 30%;
+    font-size: 1.2rem;
+    color: rgb(161, 142, 131);
+    font-family: 'Gruppo', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (width < 1200px){
+    .contPanel{
+        flex-direction: column;
+    }
+    .contA1{
+        width: 100%;
+        height: 25%;
+        top: 0;
+    }
+    .contA2{
+        width: 100%;
+        height: 25%;
+        top: 0;
+    }
+    .contA3{
+        width: 100%;
+        height: 25%;
+        top: 0;
+    }
+    .contAD{
+        width: 80%;
+        height: 60%;
+        display: flex;
+        flex-direction:row;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-bottom: 0;
+    }
+    .contAD img{
+        width: 20%;
+        height: auto;
+        border-radius: 8px;
+        border: 3px solid rgba(255, 255, 255, 0.3);
+    }
+    .contAD p{
+        width: 60%;
+        height: 100%;
+        font-size: 1rem;
+    }
+    .contTittle{
+        align-items: center;
+    }
+}
+@media screen and (width < 800px){
+    .contPanel{
+        flex-direction: column;
+    }
+    .contA1{
+        width: 100%;
+        height: 25%;
+        top: 0;
+    }
+    .contA2{
+        width: 100%;
+        height: 25%;
+        top: 0;
+    }
+    .contA3{
+        width: 100%;
+        height: 25%;
+        top: 0;
+    }
+    .contAD{
+        width: 80%;
+        height: 100%;
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-bottom: 0;
+    }
+    .contAD img{
+        width: auto;
+        height: 30%;
+        border-radius: 8px;
+        border: 3px solid rgba(255, 255, 255, 0.3);
+    }
+    .contAD p{
+        width: 100%;
+        height: 50%;
+        font-size: 0.8rem;
+    }
+    .contTittle{
+        align-items: center;
+    }
+    .contDesc h2{
+        font-size: 1.6rem;
+    }
+    .contDesc p{
+        font-size: 0.9rem;
+    }
+}

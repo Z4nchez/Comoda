@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="favicom.svg"
+   inkscape:export-filename="C:\Users\Walter\Desktop\memo.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0595392"
+     inkscape:cx="49.549842"
+     inkscape:cy="153.84046"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="298.98264"
+       y="166.843"
+       width="233.5802"
+       height="98.771057"
+       id="rect21415" />
+    <rect
+       x="149.49133"
+       y="144.15234"
+       width="110.78375"
+       height="30.699112"
+       id="rect19539" />
+    <rect
+       x="149.49133"
+       y="144.15234"
+       width="110.78375"
+       height="30.699112"
+       id="rect19539-3" />
+    <rect
+       x="149.49133"
+       y="144.15234"
+       width="110.78375"
+       height="30.699112"
+       id="rect19539-3-0" />
+    <rect
+       x="298.98264"
+       y="166.843"
+       width="233.5802"
+       height="98.771057"
+       id="rect21415-7" />
+    <rect
+       x="298.98264"
+       y="166.843"
+       width="233.5802"
+       height="98.771057"
+       id="rect21415-7-8" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#005579;fill-opacity:1;stroke:#00f6a7;stroke-width:0.469;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29701"
+       width="25.890442"
+       height="20.884432"
+       x="3.4173424"
+       y="6.7413163" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.69838057,0,0,0.62792771,-94.861321,-80.58998)"
+       id="text19537"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19539-3-0);fill:#00ffff"><tspan
+         x="149.49219"
+         y="163.56285"
+         id="tspan57337">M</tspan></text>
+    <rect
+       style="fill:#005579;fill-opacity:1;stroke:#00f6a7;stroke-width:0.294042;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29701-0"
+       width="15.694188"
+       height="13.542382"
+       x="31.098629"
+       y="29.741152" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.41997338,0,0,0.3892708,-91.471191,-38.156037)"
+       id="text21413"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Copperplate Gothic Bold';-inkscape-font-specification:'Copperplate Gothic Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect21415-7-8);fill:#00ff9c;fill-opacity:1;stroke:#5cf3fe;stroke-width:0.66911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.982222"><tspan
+         x="298.98242"
+         y="202.20799"
+         id="tspan57339">F</tspan></text>
+    <rect
+       style="fill:#005579;fill-opacity:1;stroke:#00f6a7;stroke-width:0.201983;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29701-0-1"
+       width="11.010439"
+       height="9.1083488"
+       x="18.479855"
+       y="29.71073" />
+    <rect
+       style="fill:#005579;fill-opacity:1;stroke:#00f6a7;stroke-width:0.122552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect29701-0-1-9"
+       width="6.5949912"
+       height="5.5981197"
+       x="31.038383"
+       y="22.156878" />
+  </g>
+</svg>
